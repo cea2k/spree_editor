@@ -6,4 +6,5 @@
 //
 //= require_tree .
 //= require admin/spree_core
-//= require tinymce-jquery
+//= require admin/tinymce/jquery.tinymce
+//= require admin/jquery.ocupload
